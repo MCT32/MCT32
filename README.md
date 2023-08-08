@@ -1,3 +1,5 @@
+![Engineer Gaming](tf2.gif)
+
 ### Hi there 👋
 I'm MCT32, a 17 year old Aussie🇦🇺 hobby developer currently studying in highschool.
 
