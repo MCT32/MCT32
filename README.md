@@ -1,7 +1,12 @@
+<div align="center">
+
 ![Engineer Gaming](tf2.gif)
 
 ### Hi there 👋
 I'm MCT32, a 17 year old Aussie🇦🇺 hobby developer currently studying in highschool.
+
+<br>
+</div>
 
 ## Languages I know (in no particular order)
 - C++
@@ -16,9 +21,11 @@ I'm MCT32, a 17 year old Aussie🇦🇺 hobby developer currently studying in hi
 ## Current projects
 - [VelocityEngine](https://github.com/MCT32/VelocityEngine): A game engine written in C++ with SDL aimed at eventually becoming a clone of the source engine.
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<div align="center">
+
+![Metrics](github-metrics.svg)
+  
+</div>
 
 <!--
 **MCT32/MCT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
