@@ -14,6 +14,10 @@ I'm MCT32, a 17 year old Aussie🇦🇺 hobby developer currently studying in hi
 ## Current projects
 - [VelocityEngine](https://github.com/MCT32/VelocityEngine): A game engine written in C++ with SDL aimed at eventually becoming a clone of the source engine.
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <!--
 **MCT32/MCT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
